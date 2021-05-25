@@ -1,0 +1,93 @@
+[
+
+  
+      {
+        "CaseID": "510559",
+        "name": "Covid-19 testing operation of Pasir Ris housing block yields no cases as of May 24",
+        "date": "24 May 2021",
+
+        "desc": "SINGAPORE — The Ministry of Health (MOH) on Monday (May 24) said that an ongoing Covid-19 test of residents and visitors of a public housing block in Pasir Ris has not found any infected persons so far. Giving an update on the progress of the testing operation, it said that 285 residents and visitors of Block 559 on Pasir Ris Street 51 have been tested for Covid-19 as of noon on Monday. ",
+        "url": "https://www.todayonline.com/singapore/covid-19-testing-operation-pasir-ris-housing-block-yields-no-cases-may-24",
+        "source": "todayonline.com",
+        "visits":[
+          {
+            "id": "ccc",
+            "date": "24 May 2021",
+            "duration": "",
+            "place": "HDB Block",
+            "address": "Block 559 on Pasir Ris Street 51",
+            "latlong": "1.3665027,103.9516901"
+          }
+        ],
+        "tags": ["HDB","Testing"],
+        "urls": []
+        
+    },  
+    {
+        "CaseID": "63574",
+        "name": "2 more Singapore Polytechnic students test positive for COVID-19",
+        "date": "23 May 2021 06:22AM",
+        "desc": "Singapore Polytechnic (SP) said early on Sunday (May 23) that two more of its students have tested positive for COVID-19, bringing the number of coronavirus infections among students to six. One of the two latest cases - a 19-year-old Malaysian - is a third-year student from the School of Chemical & Life Sciences who was last on campus on May 15. Earlier this week, the polytechnic expanded testing to bring the total number swabbed to 8,500.",
+        "url": "https://www.channelnewsasia.com/news/singapore/covid-19-2-more-singapore-polytechnic-students-test-positive-14866190",
+        "source": "channelnewsasia.com",
+        "visits":[
+          {
+            "id": "ccc",
+            "date": "15 May 2021",
+            "duration": "",
+            "place": "Singapore Polytechnic",
+            "address": "500 Dover Road 139651",
+            "latlong": "1.3097757,103.7775495"
+          }
+        ],
+        "tags": ["Cases"],
+        "urls": []
+    },
+    {
+      "CaseID": "530506",
+      "name": "Compulsory Covid-19 testing for all residents of Block 506 Hougang Ave 8 after ‘a few cases’ found: MOH",
+      "date": " May 20, 2021",
+      "desc": "All residents living at Block 506 on Hougang Avenue 8 will have to undergo mandatory Covid-19 tests, the Ministry of Health (MOH) said on Thursday (May 20). This comes after investigations by MOH found that a few people infected with the coronavirus are living at the public housing block. MOH did not state how many people were infected there.",
+      "url": "https://www.todayonline.com/singapore/compulsory-covid-19-testing-all-residents-block-506-hougang-ave-8-after-few-cases-found",
+      "source": "channelnewsasia.com",
+      "visits":[
+        {
+          "id": "ccc",
+          "date": "24 May 2021",
+          "duration": "",
+          "place": "HDB Block",
+          "address": "506 Hougang Ave 8, Singapore 530506",
+          "latlong": "1.3728214,103.8876207" 
+        }        
+      ],
+      "tags": ["HDB","Testing"],
+      "urls": [
+        {
+          "title": "11 COVID-19 cases identified at Hougang HDB block, including 2 new infections picked up from mandatory testing",
+          "link": "https://www.channelnewsasia.com/news/singapore/11-covid-19-cases-hougang-hdb-block-mandatory-testing-14869212"
+        }         
+      ]
+  },
+  {
+    "name": "Face masks effectively limit the probability of SARS-CoV-2 transmission",
+    "date": "20 May 2021",
+    "desc": "Airborne transmission by droplets and aerosols is important for the spread of viruses. Face masks are a well-established preventive measure, but their effectiveness for mitigating SARS-CoV-2 transmission is still under debate. We show that variations in mask efficacy can be explained by different regimes of virus abundance and related to population-average infection probability and reproduction number. For SARS-CoV-2, the viral load of infectious individuals can vary by orders of magnitude. We find that most environments and contacts are under conditions of low virus abundance (virus-limited) where surgical masks are effective at preventing virus spread. More advanced masks and other protective equipment are required in potentially virus-rich indoor environments including medical centers and hospitals. Masks are particularly effective in combination with other preventive measures like ventilation and distancing.",
+    "url": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+    "source": "sciencemag.org",
+    "visits":[
+    ],
+    "tags": ["Science"],
+    "urls": []
+  },  
+  {
+    "name": "TraceTogether check-in starts May 17: Can ID cards still be used for SafeEntry?",
+    "date": "May 5, 2021, 9:07 pm SGT",
+    "desc": "From May 17, all visitors to places that need SafeEntry - such as malls, eateries, offices, schools and places of worship - must use either the TraceTogether app or token to check in for contact tracing. The date for this compulsory TraceTogether-only SafeEntry check-in was brought forward by about two weeks from the previously announced June 1, the Government said on Tuesday (May 4).",
+    "url": "https://www.straitstimes.com/tech/tech-news/askst-can-id-cards-still-be-used-for-safeentry-when-compulsory-tracetogether-check-in",
+    "source": "straitstimes.com",
+    "visits":[
+    ],
+    "tags": ["Measures"],
+    "urls": []
+  }
+]
